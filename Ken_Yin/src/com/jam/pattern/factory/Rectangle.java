@@ -1,4 +1,4 @@
-package com.jam.pattern.Factory;
+package com.jam.pattern.factory;
 
 public class Rectangle implements Shape {
 	@Override

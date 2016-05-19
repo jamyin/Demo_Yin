@@ -1,4 +1,4 @@
-package com.jam.pattern.Factory;
+package com.jam.pattern.factory;
 /**
 * @ClassName: FactoryPatternDemo
 * @Description: 使用该工厂，通过传递类型信息来获取实体类的对象。

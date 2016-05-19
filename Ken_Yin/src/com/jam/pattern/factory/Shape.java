@@ -1,4 +1,4 @@
-package com.jam.pattern.Factory;
+package com.jam.pattern.factory;
 /**
 * @ClassName: Shape
 * @Description: TODO(这里用一句话描述这个类的作用)
